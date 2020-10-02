@@ -2,7 +2,7 @@
 Description=Mount Extra disk space
 
 [Mount]
-What=/dev/sda1
+What=/dev/<DEVICE>
 Where=/extra
 Type=ext4
 Options=defaults
